@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontColor=fff&height=300&fontAlignY=45&fontSize=100&color=gradient)
+
+
+
 
 <div align="center">
-
-### This is Soyeon's playground 👋
+ 
+ ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontColor=fff&height=300&fontAlignY=45&fontSize=100&color=gradient&animation=fadeIn&section=header)
 
 ### 💪Skills 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
